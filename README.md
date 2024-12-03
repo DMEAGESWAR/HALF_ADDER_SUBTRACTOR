@@ -56,6 +56,14 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![de2](https://github.com/user-attachments/assets/8021cb09-d4dd-4547-9be0-16fe905efe72)
+
+
 **Output/TIMING Waveform**
 
+![Screenshot (25) - Copy](https://github.com/user-attachments/assets/14a54c57-c902-42de-a4e5-0e176644deae)
+
+
+
 **Result:**
+Thus the logic gates are studied and the truth table are verified
